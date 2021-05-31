@@ -1,0 +1,14 @@
+.register-container {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.register-heading {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.register-info {
+    text-align: center;
+    margin-top: 20px;
+}
